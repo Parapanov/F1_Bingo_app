@@ -1,4 +1,19 @@
+
+# node.js
 node_modules/
+npm-debug.log
+yarn-error.log
+
+# Bundle artifact
+*.jsbundle
+
+# CocaPods
+/ios/Pods/
+
+# Temporary files
+.metro-health-check*
+
+#expo
 .expo/
 dist/
 npm-debug.*
@@ -10,5 +25,10 @@ npm-debug.*
 *.orig.*
 web-build/
 
-# macOS
-.DS_Store
+fetxhDb.js
+fetchIo.js
+
+Aplication-0/
+/Server
+/Images
+
